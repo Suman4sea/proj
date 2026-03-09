@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd interior-design-website && npm run build",
+  "outputDirectory": "interior-design-website/.vercel/output",
+  "installCommand": "cd interior-design-website && npm install"
+}
